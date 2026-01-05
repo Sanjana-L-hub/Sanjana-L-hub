@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sanjana
+# Hi 👋, I'm Sanjana L
 
 ## 👨‍💻 About Me
 - 💼 Associate Software Developer at **Ahana Systems & Solutions**
